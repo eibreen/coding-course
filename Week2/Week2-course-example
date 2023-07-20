@@ -1,0 +1,34 @@
+#define a string value
+name = "Alice"
+
+#define an int value
+age = 23
+
+#define a float value
+height = 167.5
+
+#define a boolean value
+imaginary = True
+
+#define a list of strings
+favourite_foods = [
+'cookies', 
+'icecream', 
+'Juice'
+]
+
+#define a dict with string keys and values
+previous_jobs = {
+'first': 'barista', 
+'second': 'driver', 
+'current':'teacher'
+}
+
+
+print(name)
+print(age)
+print(height)
+print(imaginary)
+print(favourite_foods)
+print(previous_jobs)
+
